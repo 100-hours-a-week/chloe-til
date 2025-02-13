@@ -35,7 +35,7 @@
 
 25.02.12(수) 사이파이 보충: 정규분포 [상세 내역 링크](https://github.com/100-hours-a-week/chloe-til/blob/main/Feb/2025-02-12.md)
 
-25.02.13(목) 사이파이 보충: 가설검정 [상세 내역 링크]
+25.02.13(목) 사이파이 보충: 가설검정 [상세 내역 링크](https://github.com/100-hours-a-week/chloe-til/blob/main/Feb/2025-02-13.md)
 
 25.02.14(금) 딥다이브 (개인 사유 결석)
 
