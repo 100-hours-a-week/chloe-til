@@ -44,7 +44,7 @@
 
 #### [2월 셋째주, 4주차] : 
 >
-25.02.17(월) 미분 복습 [상세 내역 링크](/Users/ojaeeun/chloe-til/Feb/2025-02-17.md)
+25.02.17(월) 미분 복습 [상세 내역 링크](https://github.com/100-hours-a-week/chloe-til/blob/main/Feb/2025-02-17.md)
 
 25.02.18(화)
 
