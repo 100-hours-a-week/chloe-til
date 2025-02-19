@@ -42,15 +42,15 @@
 >
 
 
-#### [2월 셋째주, 4주차] : 
+#### [2월 셋째주, 4주차] : 머신러닝
 >
 25.02.17(월) 미분 복습 [상세 내역 링크](https://github.com/100-hours-a-week/chloe-til/blob/main/Feb/2025-02-17.md)
 
-25.02.18(화)
+25.02.18(화) 인공지능 학습 [상세 내역 링크](https://github.com/100-hours-a-week/chloe-til/blob/main/Feb/2025-02-18.md)
 
-25.02.19(수)
+25.02.19(수) 알아두면 좋은 정보 [상세 내역 링크](https://github.com/100-hours-a-week/chloe-til/blob/main/Feb/2025-02-19.md)
 
-25.02.20(목)
+25.02.20(목) [상세 내역 링크]
 
 25.02.21(금) 딥다이브
 
